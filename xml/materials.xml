@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><!-- -*- coding: utf-8; mode: SGML -*- -->
+
+<container n="materials" pn="Materials" icon="material" help="Materials database">      
+  <blockdata n='material' name='Air' sequence='1' editable_name='unique' icon="material" help='Material definition' morebutton="0">     
+    <value n="Density" pn="Density" v="1.01" help="Mass density of the material" unit_magnitude="M/L^3" units="kg/m^3"/>
+  </blockdata>
+  <blockdata n='material' name='Steel' sequence='1' editable_name='unique' icon="material" help='Material definition' morebutton="0">
+    <value n="Density" pn="Density" v="7850" help="Mass density of the material" unit_magnitude="M/L^3" units="kg/m^3"/>
+  </blockdata>
+  <blockdata n='material' name='Aluminium' sequence='1' editable_name='unique' icon="material" help='Material definition' morebutton="0">
+    <value n="Density" pn="Density" v="2650" help="Mass density of the material" unit_magnitude="M/L^3" units="kg/m^3"/>
+  </blockdata>
+</container> 
