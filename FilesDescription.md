@@ -25,3 +25,7 @@ This is the main tcl file. Here you can:
 This file defines the data tree shown in the left side of the GiD window.
 
 This file must follow the [CustomLib rules](http://www.gidhome.com/documents/customizationmanual/PROBLEMTYPE+SYSTEM/Data+tree+fields). (The web documentation is hard to follow. It's easier to read the 4.3 section of the [PDF version](https://web.cimne.upc.edu/users/fjgarate/downloads/GiD_13_Customization_Manual.pdf#page=12))
+
+### bat files
+This is the launch script that GiD will use to run your executable.
+If you want your problemtype to run on windows and unix systems, you'll need a bat file for each system.
