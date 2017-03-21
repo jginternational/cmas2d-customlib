@@ -19,7 +19,7 @@ git clone https://github.com/jginternational/cmas2d-customlib.git
 
 ## Create your problemtype
 * Fork this repository
-* Follow the [rules](#Description-of-the-files)
+* Follow the Basic rules
 * Read the [documentation](http://www.gidhome.com/documents/customizationmanual/PROBLEMTYPE%20SYSTEM)
 
 # Description of the files
